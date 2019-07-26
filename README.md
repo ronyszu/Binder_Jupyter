@@ -1,4 +1,4 @@
 # Binder_Jupyter
 Testing Binder/Jupyter Notebook
 
-https://mybinder.org/v2/gh/ronyszu/Binder_Jupyter/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ronyszu/Binder_Jupyter/master)
